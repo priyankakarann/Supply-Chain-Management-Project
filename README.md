@@ -7,13 +7,14 @@ Supply Chain Management for Car in Power BI: Dashboard Project
 Supply Chain Management for Car in Power BI project includes working of Power BI, SQL, and Python. This project is for all beginners who wants to learn and understand about Power BI end-to-end dashboard project.
 
 Table of Contents
-Overview
-Flow of the Project
-Project Architecture
-Data Gathering
-Data Cleaning
-Modeling In Power BI
-Dashboard Creation In Power BI
+1.Overview
+2.Flow of the Project
+3.Project Architecture
+4.Data Gathering
+5.Data Cleaning
+6.Modeling In Power BI
+7.Dashboard Creation In Power BI
+
 
 Overview
 Supply Chain Management for Cars in Power BI provides a comprehensive overview of the entire supply chain process for automotive companies. This includes tracking the flow of materials, components, and finished products from suppliers to manufacturers, distributors, and ultimately to customers.
